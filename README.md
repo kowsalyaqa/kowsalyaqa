@@ -4,7 +4,7 @@
 <ul dir="auto">
 <li>I’m currently working for providing automation solutions for digital and sales force web applications</li>
 <li>I’m passionate about on automate web apllications using java</li>
-<li>I'm interested on providing framework designs for automation using Selnium WebDriver, TestNG, Cucumber framework types</li>
+<li>I'm interested on providing framework implementation for automation using Selnium WebDriver, TestNG, Cucumber framework</li>
 <li><g-emoji class="g-emoji" alias="microscope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52c.png">I’m currently learning about <b>Data structures and Algorithms, Deveops Tools Kubernate, Rest API</b></li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">How to reach me: Email me at <a href="mailto:kowsalyaqait22@gmail.com">kowsalyaqait22@gmail.com</a></li>
 </ul>
